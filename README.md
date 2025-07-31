@@ -41,6 +41,10 @@ Includes:
 
 🧪 **Try it out instantly:** A sample PDF (`sample.pdf`) is included in the repo so you can test the Q&A bot without uploading your own document.
 
+🖥️ **Frontend:** Built entirely with [Streamlit](https://streamlit.io/), offering a responsive, no-setup UI to upload PDFs, ask questions, and view contextual answers instantly.
+
+
+
 ## 🤝 Support
 
 Email: `av99400@gmail.com`
