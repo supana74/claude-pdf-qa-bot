@@ -28,6 +28,9 @@ Includes:
 - 🌍 **International buyers (PayPal)**: [$8.99](https://www.paypal.com/ncp/payment/7PA673Y3GLDYA)
 - 🇮🇳 **Indian buyers (Razorpay)**: [₹749](https://razorpay.me/@shreeenterprises6497)
 
+- 🔐 **Note:** To run this app locally or deploy it, you’ll need your own AWS credentials with access to Bedrock and Claude 3 models. Configure them using the `boto3` default authentication methods or environment variables.
+
+
 ---
 
 ## 📦 Code Files Included
