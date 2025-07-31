@@ -1,5 +1,5 @@
 streamlit
-langchain==0.1.14
-faiss-cpu
+langchain
 boto3
+faiss-cpu
 pypdf
