@@ -35,7 +35,8 @@ Includes:
 - `app.py`: Complete Streamlit code (upload PDF + RAG + Claude)
 - `requirements.txt`: Python dependencies
 
----
+
+🧪 **Try it out instantly:** A sample PDF (`sample.pdf`) is included in the repo so you can test the Q&A bot without uploading your own document.
 
 ## 🤝 Support
 
